@@ -1,8 +1,8 @@
-#Updated May 11th, 2022
+#Updated May 30th, 2022
 #Appodeal
-appodeal.com, 105675, RESELLER
+appodeal.com, 105675, DIRECT
 #BidMachine
-bidmachine.io, 105675, RESELLER
+bidmachine.io, 105675, DIRECT
 #AdMob
 google.com, pub-6970718053786035, DIRECT, f08c47fec0942fa0
 #Notsy
