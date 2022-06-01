@@ -21,5 +21,8 @@ function hide() {
 }
 
 function installClick() {
+    fbq('trackCustom', 'Install');
     window.alert("Oops! Something went wrong...");
 }
+
+fbq('track', 'PageView');
