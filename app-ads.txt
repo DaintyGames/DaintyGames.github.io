@@ -1,13 +1,15 @@
-#Updated 22nd September 2023
+#Updated 7th October 2023
 #Appodeal
 appodeal.com, 105675, DIRECT
 #BidMachine
 bidmachine.io, 105675, DIRECT
 #AdMob
 google.com, pub-6970718053786035, DIRECT, f08c47fec0942fa0
-#Meta Facebook
+#Meta-Audience
 #Replace the Business_ID below with your Meta Business ID
 facebook.com,Business_ID,RESELLER,c3e20eee3f780d68 
+#Add other networks if applicable
+
 
 #Resellers
 152media.info,152M5,RESELLER
@@ -115,7 +117,6 @@ auxoads.com,90217,RESELLER
 auxoads.com,90218,RESELLER
 auxoads.com,90219,RESELLER
 axonix.com,55724,RESELLER,bc385f2b4a87b721
-axonix.com,56222,RESELLER,bc385f2b4a87b721
 axonix.com,56222,RESELLER,bc385f2b4a87b721
 axonix.com,57264,RESELLER,bc385f2b4a87b721
 axonix.com,57311,RESELLER,bc385f2b4a87b721
